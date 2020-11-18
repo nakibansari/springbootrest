@@ -11,6 +11,7 @@ public class SpringBootDemoApplicationTests {
 //testing commit
 	@Test
 	public void contextLoads() {
+		System.out.println("Hellow");
 	}
 
 }
